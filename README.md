@@ -19,8 +19,6 @@
 ![deadoss1801's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deadloss1801&show_icons=true&theme=radical)
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Deadloss1801&" alt="Deadloss1801" /></p>
-
 
 <!--
 **DeadLoss1801/DeadLoss1801** is  a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
