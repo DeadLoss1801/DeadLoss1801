@@ -8,12 +8,6 @@
 
 
 
-
-# Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deadloss1801&layout=compact&theme=radical)
-
-
 ## GitHub Stats
 
 ![deadoss1801's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deadloss1801&show_icons=true&theme=radical)
